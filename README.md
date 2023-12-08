@@ -1,2 +1,2 @@
-# rizalproject.juan
+# rizalproject
 rizalprojectTUA STUDENTS
